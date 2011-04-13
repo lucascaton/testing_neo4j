@@ -1,3 +1,32 @@
-You should install Java 1.6 and JRuby:
+This tutorial explains how this project works:
+http://blog.jayway.com/2011/03/02/neo4j-rb-1-0-0-and-rails-3/
 
+
+To run this project, you should follow these steps:
+
+=> Install Java 1.6
+
+=> Install rvm
+https://rvm.beginrescueend.com/
+
+=> Update your RVM
+rvm get head
+
+=> Install JRuby:
 rvm install jruby-1.6.0
+
+=> Use JRuby
+rvm jruby
+
+=> Get this project
+git clone git@github.com:lucascaton/testing_neo4j.git
+
+=> Enter in this project directory
+cd testing_neo4j
+
+=> Install / run bundler
+gem install bundler
+bundle
+
+=> Start the server
+rails server
