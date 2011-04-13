@@ -175,3 +175,10 @@ Wed Apr 13 02:16:36 BRT 2011: use_adaptive_cache=YES
 Wed Apr 13 02:16:36 BRT 2011: --- CONFIGURATION END ---
 Wed Apr 13 02:16:37 BRT 2011: Extension org.neo4j.kernel.KernelExtension[kernel jmx] loaded ok
 Wed Apr 13 02:16:37 BRT 2011: Extension org.neo4j.kernel.KernelExtension[shell] loaded ok
+Wed Apr 13 02:27:45 BRT 2011: Closed log /Users/lucascaton/projects/code/ruby/pessoais/myblog/db/neo4j-development/nioneo_logical.log
+Wed Apr 13 02:27:45 BRT 2011: NeoStore closed
+Wed Apr 13 02:27:45 BRT 2011: Closed log /Users/lucascaton/projects/code/ruby/pessoais/myblog/db/neo4j-development/index/lucene.log
+Wed Apr 13 02:27:45 BRT 2011: Closed log /Users/lucascaton/projects/code/ruby/pessoais/myblog/db/neo4j-development/lucene/lucene.log
+Wed Apr 13 02:27:45 BRT 2011: NeoStore closed
+Wed Apr 13 02:27:45 BRT 2011: Closed log /Users/lucascaton/projects/code/ruby/pessoais/myblog/db/neo4j-development/lucene-fulltext/lucene.log
+Wed Apr 13 02:27:45 BRT 2011: TM shutting down
